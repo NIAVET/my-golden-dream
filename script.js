@@ -1,1 +1,1 @@
-console.log('Bienvenue dans My Golden-Dream');
+function afficherVision()
